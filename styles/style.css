@@ -219,7 +219,6 @@ link:focus {
   .main {
     padding-left: 20px;
     padding-right: 20px;
-
     padding-top: 15px;
     gap: 35px;
   }
@@ -271,8 +270,6 @@ link:focus {
   }
   .article-title {
     grid-column: 1;
-  }
-  .article-title {
     inline-size: fit-content;
   }
   .text-wrapper {
