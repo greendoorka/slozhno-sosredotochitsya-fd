@@ -7,5 +7,5 @@
   --text-color: #F1B2CE;
   --heading-text-color:#000028;
   --button-hover-color: #FF007066;
-  --main-font: 'IBM Plex mono';
+  --main-font: 'IBM Plex mono', monospace;
 }
